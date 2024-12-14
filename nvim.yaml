@@ -1,0 +1,7 @@
+actions:
+  - action: file.link
+    source: config/nvim 
+    target: "{{ user.config_dir }}/nvim"
+  - action: package.install
+    name: neovim
+    provider: paru
