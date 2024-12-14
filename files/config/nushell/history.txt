@@ -1,0 +1,3304 @@
+g rm -f nushell/history.txt
+clear
+cm "Refactor some Hyprland, adjust waybar"
+gp
+cd conf
+gp
+eit
+exit
+nv ~/.gitconfig
+exit
+btop
+tmux
+exit
+spot
+spotify_player 
+exit
+fastfetch 
+man azi
+man yazi
+yazi --help
+exit
+cd hypr
+kitty --help
+exit
+nv
+exit
+cd rofi
+ls
+nv config.rasi
+exit
+fastfetch 
+exit
+paru -Ss video
+paru -Qs video
+paru -Qs video player
+paru -Qs player
+clear
+exit
+mpv 
+exit
+yt
+exit
+yt-dlp 
+man yt-dlp
+yt-dlp 'https://www.youtube.com/watch?v=7w916BY0IFA'
+ls
+xopen 'Why Arabs hate therapy [7w916BY0IFA].webm'
+rm 'Why Arabs hate therapy [7w916BY0IFA].webm'
+exit
+paru -Ss gimp
+exit
+paru -S gimp-devel 
+gp
+paru -S gimp-devel 
+exit
+paru
+nv .cache/hyprland/hyprlandCrashReport2556.txt
+clear
+reboot
+logintclt reboo
+logintclt reboot
+loginctl reboot
+nv /var/log/rc.log
+clear
+paru
+paru -Ss astal
+paru -Qs astal
+paru -R ags
+paru -Qs gtk
+paru -Qs gtk shell
+paru -Rns aylurs-gtk-shell 
+clear
+nvidia-smi
+clear
+sudo rc-service sddm restart
+paru -S plasma-workspace 
+sudo rc-service sddm restart
+paru -Rns plasma-workspace 
+clear
+paru
+sudo reboot
+cat howtofixshit.txt 
+clear
+btop
+nv `.cache/Hyprland Polkit Agent/qtpipelinecache-x86_64-little_endian-lp64/qqpc_opengl`
+clear
+Hyprland
+paru -S aquamarine 
+clear
+paru -S hyprland 
+Hyprland
+tldr ln
+sudo ln -s /lib/libaquamarine.so /lib/libaquamarine.so.3
+ls .config/hypr/
+cd home
+cd
+gst
+clear
+cd .config/
+gst
+gst --untracked-files=no
+ping github.com
+exit
+nv
+exit
+paru -S firefox-bin
+paru -S librewolf-bin 
+cd hypr
+nv
+exit
+tmux
+clear
+tmux
+exit
+paru -Ss ninjabrain
+exit
+nv .config/tmux/tmux.conf
+exit
+tmux
+exit
+cd conf
+gst
+gst 
+gst --untracked-files=no
+cd nvim
+gst
+g diff
+cm "Add neorg"
+gp
+nv ~/.git-credentials
+git-credential-manager --help
+git-credential-manager get init.lua
+git-credential-manager get
+git-credential-manager get --no-ui
+git-credential-manager get git --no-ui
+git-credential-manager --help
+git-credential-manager configure
+git-credential-manager github --help
+git-credential-manager github list
+git-credential-manager github logout git
+exit
+gp
+cm "Minor tweaks"
+gp
+exit
+kitty spotify_player
+cd rofi
+nv config.rasi
+exi
+exit
+paru -Rns networkmanager 
+paru -Rns networkmanager networkmanager-openrc 
+exit
+paru -S wpa_supplicant
+cd hypr
+nv
+sudo rc-update add iwd
+sudo rc-service iwd start
+iwctl status
+plocate iwd
+plocate connect
+plocate connection
+plocate connection | less
+exit
+sudo dmesg
+btop
+exit
+iwctl
+sudo dmesg
+paru -Ss iwd gui
+paru -S iwgtk
+sudo dmesg
+exit
+hostname
+exit
+cd waybar
+btop
+cd hypr
+nv
+clear
+..
+gst
+gst --untracked-files=no
+clear
+cm "Integrate iwgtk"
+gp
+nv
+exit
+exit
+fastfetch 
+exit
+iwgtk
+brightness -50%
+brightness set -50%
+brightness set 50%
+exit
+brightnessctl --help
+brightnessctl s 10%
+brightnessctl s 100%
+btop
+exit
+fastfetch 
+exit
+nv
+exit
+nv
+exit
+cd hypr
+nv
+cd hypr
+nv
+cd hypr
+nv
+cd hyper
+cd hypr
+nv
+exit
+rc-service iwd status
+btop
+sudo rc-service iwd restart
+iwctl
+rfkill
+iwctl status
+iwctl 
+cd hypr
+nv
+hyprctl reload
+exit
+gdu
+hypaper
+paru -S hypaper
+hyprpaper
+paru -S hyprpaper
+clear
+hyprpaper --help
+man hyprpaperERR
+man hyprpaperE
+man hyprpaper
+exit
+paru -Ss module device manager
+exit
+spotify_player 
+exit
+swww queryt
+swww query
+exit
+dmidecode
+paru -Ss dmi decode
+paru -S dmidecode
+dmidecode
+sudo dmidecode 
+sudo dmidecode  | grep model
+sudo dmidecode | grep vendor 
+sudo dmidecode | grep lenovo 
+paru -Ss system info
+paru -Ss hardware info
+paru -S sysinfo
+sysinfo
+fastfetch 
+man fastfetch
+man neofetch
+paru -Ss neofetch man
+paru -S neofetch
+man neofetch
+wtf is wiki
+exit
+paru -R neofetch
+exit
+sudo dmidecode | grep Version 
+exit
+cd hypr
+nv
+exit
+cd conf
+fastfetch 
+exit
+cat /sys/class/dmi/id/product_name
+exit
+nv fastfetch/config.jsonc
+exit
+pipesz 
+paru -Qs screensaver
+conway-screensaver 
+paru -S pipes.sh
+pipes.sh
+exit
+cd syllabus
+cd Documents/Syllabus/MovieReview_24.4.odt
+cd Documents/Syllabus/
+rm MovieReview_24.4.odt
+cd Documents/Syllabus/
+nv MoveReview_24.4.norg
+exit
+cd rst
+cd rust
+clear
+ls
+cd gl-tests/
+nv
+exit
+nv .config/nushell/env.nu
+nv .config/nushell/startup.nu
+exit
+nv .config/nushell/env.nu
+nv .config/nushell/startup.nu
+cd nushell
+n
+nv
+nv env.nu
+exit
+man man
+exit
+exit
+nv startup.nu
+exit
+tldr ln
+man ln
+exit
+tldr socat
+clear
+man socat
+exit
+cd hypr
+nv
+n
+nv
+cd conf
+clear
+gst
+gst --untracked-files=no
+clear
+cd conf
+gst --untracked-files=no
+cm "Monitor changes(I think), tablet settings, back to Thunar btw"
+gp
+exit
+tmux
+tldr --update
+clear
+tldr --update
+wikiman
+paru -S wikiman 
+cd waybar
+killall wl-sunset
+btop
+exit
+btop
+wikiman
+exit
+nv config
+gst
+gst --untracked-files=no
+cm "Funny ahh waybar volume thingy"
+gp
+paru -S wtf
+wtf is rdd
+exit
+nv
+tmux
+exit
+cd nvim
+nv
+gst --untracked-files=no
+cm "Remove toggleterm, cuz tmux is the best <3"
+gp
+nv
+cargo r
+clear
+ls
+gst
+g diff
+nv
+gst
+clear
+cm "Way more anime :3"
+gp
+nv
+exit
+exit
+tmux
+exit
+cd rust
+ls
+clear
+killall -9 hyprlock
+hyprctl --instance 0 'keyword misc:allow_session_lock_restore 1'
+hyprctl --instance 0 'dispatch exec hyprlock'
+btop
+btop --utf-force
+sudo rc-service sddm restart
+kitty
+clear
+btop
+btop --utf-force
+paru
+loginctl reboot
+sudo rc-service sddm restart
+paru
+iwctl
+rfkill
+sudo rfkill unblock all
+rfkill
+iwctl
+paru
+paru -Qs hypr git
+paru -S grimblast hyprlang hyprutils hyprwayland-scanner xdg-desktop-portal-hyprland
+paru -S grimblast
+clear
+paru -Qs hypr git
+paru -S hyprland-protocols
+nvidia-smi
+nv .cache/hyprland/hyprlandCrashReport397.txt
+paru -S aquamarine
+clear
+paru -Qs aquamarine
+sudo reboot 
+exec howtofixshit.txt
+nvidia-smi
+sudo mkinitcpio -P
+clear
+cd hypr
+nv
+exec hyprland.conf
+cd hypr
+nv
+cd hypr
+nv
+nv .cache/hyprland/hyprlandCrashReport26922.txt
+seatd 
+sudo seatd
+clear
+nvidia-smi
+clear
+lsmod
+lsmod | grep nvidia
+sudo nvim /etc/default/grub 
+sudo update-grub 
+sudo reboot
+sudo nvim /etc/default/grub 
+sudo update-grub 
+sudo reboot
+sudo reboto
+uname r
+uname -r
+uname
+exit
+sudo reboot
+exit
+paru -S nvidia-beta-dkms 
+sudo reboot
+paru -S nvidia-550xx-dkms 
+paru -R lib32-nvidia-utils 
+nvidia-smi
+clear
+sudo downgrade linux linux-headers linux-zen linux-zen-headers 
+paru -S downgrade
+which downgrade
+nvim /usr/bin/downgrade
+exit
+sudo downgrade linux linux-headers linux-zen linux-zen-headers 
+sudo reboot
+exit
+swww query
+rm /home/javatrix/Pictures/Wallpapers/Aesthetic/s4vitar.png
+exit
+nvidia-smi
+paru -S nvidia-550xx-dkms 
+paru -Qs nvidia
+paru -S nvidia
+cd hypr
+nv
+exit
+paru -S nvidia-550xx-dkms 
+paru -S nvidia-535xx-dkms 
+paru -S lib32-nvidia-535xx-utils 
+paru -S nvidia-550xx-dkms lib32-nvidia-535xx-utils 
+clear
+sudo nvim /etc/pacman.conf 
+exit
+paru
+paru -Qs nvidia
+paru -S linux linux-headers linux-zen linux-zen-headers
+paru -S nvidia-utils
+sudo reboot
+exit
+sudo update-grub 
+sudo reboot
+nvidia-smi
+clear
+uname -r
+uname --help
+uname
+cd hypr
+nv
+exit
+paur
+paru
+paru -R userspace-tablet-driver-daemon-git 
+cava
+exit
+sudo nvim /etc/default/grub 
+sudo update-grub 
+sudo reboot
+btop
+paru
+paru -Ss cava
+paru -R cava
+exit
+paru -S cavasik
+paru -Qs cava
+paru -Ss cava
+paru -Ss terminal audio visualizer
+paru -Ss  audio visualizer
+paru -S glava
+glava
+paru -R glava
+paru -S cavalier catnip barva-git
+nvim .cache/paru/clone/barva-git/
+cd .cache/paru/clone/barva-git/
+makepkg -s
+ls
+makepkg -s
+makepkg -si
+..
+makepkg -si
+..
+cd
+clear
+gdu
+gdu /
+sudo gdu /
+clear
+duf
+clear
+du
+duf
+paru
+uname
+clear
+sudo reboot
+hyprctl monitors
+exit
+cd hypr
+nv
+exit
+gst --untracked-files=no
+cm "Change the external monitor to display port to allow higher refresh rates"
+gp
+exit
+bto
+botp
+btop
+cava
+paru -Qs visualze
+paru -Qs visualzer
+paru -Qs visualizer
+paru -Qs visualiser
+paru -Qs audio
+paru -Ss audio visualizer
+paru -S catnip
+catnip
+catnip --help
+tldr catnip
+catnip -d 
+catnip list-devices
+catnip -d alsa_output.pci-0000_01_00.1.hdmi-stereo
+paru -R catnip
+clear
+cava
+paru -S cava-git
+exit
+fastfetch 
+clear
+fastfetch 
+btop
+exit
+cd hypr
+nv
+cm "Update the hyprlock config for the new monitor"
+nv
+ga .
+ls
+cm "Update the hyprlock config for the new monitor"
+gp
+exit
+hyprctl dispatch dpms off; sleep 1sec; hyprctl dispatch dpms on
+exit
+dbus-send --help
+exit
+cd conf
+cd scripts
+cd hypr
+nv
+man hypridle
+tldr hypridle
+exit
+bash
+exit
+cd hypr
+nv
+cm "Update the idle script to (hopefully) properly hibernate"
+nv
+cm "Change the notif daemon back to mako"
+hyprctl reload
+mako
+paru -S mako
+run_if_not_playing.sh say was
+run_if_not_playing.sh echo was
+exit
+sudo dmesg
+sudo nvim /etc/mkinitcpio.conf 
+plocate nvidia | nv
+plocate nvidia
+sudo nvim /etc/modprobe.d/nvidia.conf
+sudo mkinitcpio -P
+sudo reboot
+mako
+sudo dmesg
+sudo nvim /etc/modprobe.d/nvidia.conf
+sudo nvim /etc/default/grub 
+sudo update-grub 
+sudo dmesg
+sudo nvim /etc/mkinitcpio.d/linux.preset 
+sudo nvim /etc/modprobe.d/nobeep.conf 
+sudo nvim /etc/modprobe.d/nvidia.conf 
+nvim /etc/modprobe.d/nvidia.conf 
+sudo nvim /etc/modprobe.d/nvidia.conf 
+exit
+sudo mkinitcpio -P
+sudo nvim /etc/modprobe.d/nvidia.conf 
+ls .cache
+clear
+plocaete clipse
+plocate clipse
+plocate clipse | less
+sudo nvim /etc/modprobe.d/nvidia.conf 
+nv .config/clipse/clipboard_history.json
+clear
+sudo mkinitcpio -P
+nvim .config/tmux/tmux.conf 
+tmux
+exit
+tmux
+nvim .config/tmux/tmux.conf 
+exit
+sudo reboot
+sudo dmesg
+tldr dmesg
+wtf is dmesg
+rc-service nvidia-suspend status
+rc-update --help
+rc-update
+ls /etc/services
+cat /etc/services
+nv /etc/services
+rc-service nvidia-persistenced status
+paru -Ss nvidia openrc
+cd hypr
+nv
+cd .cache/hyprland/hyprlandCrashReport
+cd .cache/hyprland/
+ls
+rm *
+clear
+cd hypr
+exit
+nv
+gst --untracked-files=no
+g rm ../fcitx5/crash.log
+g rm -rf ../fcitx5/crash.log
+exit
+cm "Change tmux hotkeys so they don't require the prefix, update the hypridle configuration"
+gp
+thunar
+exit
+swww query
+xopen /home/javatrix/Pictures/Wallpapers/418.png
+exit
+btop
+exit
+unmute_mic.sh 
+nv .scripts/unmute_mic.sh
+#!/bin/bash<\n><\n># Set the main microphone volume to 100% every 5 seconds<\n>while true; do<\n>    # Get the microphone node ID<\n>    mic_id=$(pw-cli ls Node | grep -B1 "Microphone" | head -n1 | awk '{print $1}' | sed 's/\.//')<\n><\n>    # Set volume to 100%<\n>    if [[ -n $mic_id ]]; then<\n>        pw-metadata -n $mic_id set Param:Props volume 1.0<\n>    fi<\n><\n>    # Wait 5 seconds before reapplying<\n>    sleep 5<\n>done<\n>
+bash
+nv .scripts/unmute_mic.sh
+exit
+paru -S lunar-client 
+exit
+paru -R firefox-bin 
+exit
+thunar
+spotify_player 
+btop
+exit
+btop
+exit
+notify-send iuw
+exit
+paru -S anki-bin 
+exit
+^date 
+date humanize 
+date humanize now
+date now 
+exit
+anki 
+locale-gen
+sudo locale-gen
+clear
+anki
+sudo nvim /etc/locale.conf 
+sudo nvim /etc/locale.gen 
+clea
+clear
+exit
+paru -Rns anki-bin 
+exit
+paru -Ss local share
+paru -S lanshare 
+paru -R lanshare 
+exit
+btop
+nv .scripts/unmute_mic.sh
+#!/bin/bash<\n><\n># Set the main microphone volume to 100% every 5 seconds<\n>while true; do<\n>    # Get the microphone node ID<\n>    mic_id=$(pw-cli ls Node | grep -B1 "Microphone" | head -n1 | awk '{print $1}' | sed 's/\.//')<\n><\n>    # Set volume to 100%<\n>    if [[ -n $mic_id ]]; then<\n>        pw-metadata -n $mic_id set Param:Props volume 1.0<\n>    fi<\n><\n>    # Wait 5 seconds before reapplying<\n>    sleep 5<\n>done<\n>
+exit
+pactl list
+pactl list short
+while true; do     pactl list sources short | while read -r line; do         source_name=$(echo "$line" | awk '{print $2}');
+alsamixer 
+amixer --help
+amixer -c 2 set 'Capture' 100%<\n>
+amixer -c 2 set Capture 100%<\n>
+amixer -c 2 set Capture 100%
+amixer -c 2 set LCS_USB_AUDIO 100%
+amixer -c 2 get Capture<\n>
+amixer -c 2 scontrols<\n>
+amixer -c 2 get Mic<\n>
+amixer -c 2 set Mic 100%<\n>
+arecord -l<\n>
+clear
+arecord -l<\n> | grep card
+arecord -l<\n> | grep card | awk -F' ' '{print $2}'
+#!/bin/bash<\n><\n># List all cards<\n>aplay -l | grep '^card' | while read -r line; do<\n>  card=$(echo $line | awk '{print $2}' | sed 's/://')<\n>  echo "Card $card:"<\n>  <\n>  # List controls for the card<\n>  amixer -c "$card" scontrols | while read -r control; do<\n>    control_name=$(echo "$control" | cut -d"'" -f2)<\n>    echo "  Control: $control_name"<\n>    <\n>    # Get details for the control<\n>    amixer -c "$card" get "$control_name"<\n>  done<\n>done<\n>
+bash
+exit
+btop
+.scripts/unmute_mic.sh
+paru
+nvim .scripts/unmute_mic.sh 
+exit
+hyprctl reload
+btop
+exit
+hyprctl startup
+exit
+exit
+alsamixer
+exit
+clear
+exit
+cd rust
+cargo new port_scanner
+cd port_scanner/
+clear
+cd nvim
+nv
+n
+nv
+btop
+exit
+yazi
+yazi --help
+tldr yazi
+exit
+thunar
+clipse -k
+clipse -kill
+btop
+exit
+sudo ufw disable
+ip addr
+exit
+nv .scripts/toggle_wallpaper.sh
+exit
+btop
+exit
+btop
+exit
+paru
+paru -S timeshift
+timeshift
+timeshift --check
+sudo timeshift --check
+tldr timeshift
+sudo timeshift --list
+wtf is rsync
+exit
+tldr rsync
+exit
+wtf is timeshift
+exit
+paru -R wtf
+exit
+sudo timeshift --create
+sudo timeshift --list
+clear
+tldr timeshift
+sudo timeshift --restore
+paru
+nvim /etc/pacman.conf 
+clear
+paru -Qs nvidia
+exit
+sudo updatedb
+plocate timeshift
+clear
+gdu /timeshift/
+timeshift-gtk 
+sudo timeshift-gtk 
+exit
+eixt
+exit
+man timeshift
+paru -S kdesu
+kdesu timeshift-gtk
+kdesu
+exit
+kdesu
+paru -R kdesi
+paru -R kdesu
+paru -S kde-cli-tools
+kdesu timeshift-gtk
+man kdesu
+$(kf5-config --path libexec)kdesu 
+$env.(kf5-config --path libexec)kdesu 
+$env.(kf5-config --path libexec)/kdesu 
+zsh
+plocate kdesu
+paru -R kde-cli-tools
+paru -S sux
+sux timeshift-gtk
+paru -R sux
+sudo -E timeshift-gtk
+exit
+ping raspberrypi.local
+paru -S rpi-imager
+iwctl
+sudo ls /var/lib/iwd/
+sudo cat /var/lib/iwd/zuczole_gorne.psk
+exit
+exit
+ping raspberrypi.local
+ping raspberrypi
+ping 192.168.0.132
+ssh javatrix@192.168.0.132
+clear
+sudo nmap -P 192.168.0.1
+paru -S nmap
+tldr nmap
+sudo nmap -P 192.168.0.1
+exit
+sudo nmap 192.168.0.0/24
+ssh javatrix@192.168.0.197
+ssh javatrix@192.168.0.133
+ssh javatrix@192.168.0.172
+exit
+nv
+clear
+exit
+sudo cat /var/lib/iwd/zuczole_gorne.psk
+sudo nvim wpa_supplicant.conf
+exit
+exit
+sudo nmap 192.168.0.0/24
+sudo nmap 192.168.0.0/24 -P
+sudo nmap 192.168.0.0/24 -A
+tldr nmap
+exit
+sudo nmap 192.168.0.0/24 -A
+sudo nmap 192.168.0.0/24 -T5
+sudo nmap -T5 192.168.0.0/24
+exit
+ssh javatrix@192.168.0.174
+ssh javatrix@192.168.0.172
+ssh javatrix@192.168.0.171
+ssh javatrix@192.168.0.196
+ssh javatrix@192.168.0.161
+ssh javatrix@192.168.0.111
+clear
+ssh javatrix@192.168.0.173
+ssh javatrix@192.168.0.105
+ssh javatrix@192.168.0.104
+ssh javatrix@192.168.0.172
+ssh javatrix@192.168.0.188
+exit
+sudo nmap -T5 192.168.0.0/24
+nv napkin
+ssh javatrix@192.168.0.188
+ssh javatrix@192.168.0.196
+nv napkin
+ssh javatrix@192.168.0.176
+cd rust
+ls
+mkdir RaspberryPi
+cd RaspberryPi/
+cargo new testing
+cd testing/
+rustup target install armv7-unknown-linux-gnueabihf
+ls
+rm -rf LANShareDownloads/
+cd Sources/
+cd rust
+cd RaspberryPi/
+ls
+cd testing/
+clear
+mkdir .cargo
+nv .cargo/config.toml
+cargo add rppal
+clear
+tldr scp
+exit
+ip addr
+sudo rc-service ssh start 
+exit
+paru -S openssh-openrc 
+sudo rc-service ssh start 
+ls /etc/services
+sudo rc-service sshd start 
+cargo build --release
+pwd
+cd testing/
+cd testing
+cargo build --release
+exit
+cross
+clear
+paru -Ss cross
+paru -Ss cross rust
+paru -S cross
+clear
+cross
+cargo build --release
+cross cargo build --release
+cross build --release
+cargo --list
+paru -R cross
+cargo install cross
+cross build --target arm-unknown-linux-gnueabihf<\n>
+paru -S docker
+cross build --target arm-unknown-linux-gnueabihf<\n>
+sudo rc-service dockerd start
+paru -S docker-openrc 
+sudo rc-service dockerd start
+sudo rc-service docker start
+clear
+cross build --target arm-unknown-linux-gnueabihf<\n>
+cross build --target arm-unknown-linux-gnueabihf<\n>sudo 
+sudo cross build --target arm-unknown-linux-gnueabihf
+clear
+sudo rc-service docker stop
+dockerd
+sudo cross build --target arm-unknown-linux-gnueabihf
+cross build --target arm-unknown-linux-gnueabihf
+sudo dockerd
+sudo usermod -aG docker javatrix
+sudo rc-service docker start
+wtf is newgrp
+tldr newgrp
+clear
+cross build --target arm-unknown-linux-gnueabihf
+cd testing
+cross build --target arm-unknown-linux-gnueabihf
+groups javatrix
+sudo rc-service docker restart
+groups javatrix
+sudo rc-service docker restart
+cross build --target arm-unknown-linux-gnueabihf
+which cross
+sudo /home/javatrix/.cargo/bin/cross --target arm-unknown-linux-gnueabihf
+sudo /home/javatrix/.cargo/bin/cross --target arm7-unknown-linux-gnueabihf
+clear
+exit
+exit
+newgrp docker
+exit
+cd tmux
+nv tmux.conf
+exit
+cargo clean
+ls
+lsa
+cross build --target arm-unknown-linux-gnueabihf
+docker run --help
+sudo rc-service docker restart
+cross build --target arm-unknown-linux-gnueabihf
+sudo cross build --target arm-unknown-linux-gnueabihf
+sudo /home/javatrix/.cargo/bin/cross build --target arm-unknown-linux-gnueabihf
+rustup target remove armv7-unknown-linux-gnueabihf
+rustup target install armv-unknown-linux-gnueabihf
+rustup target install arm-unknown-linux-gnueabihf
+sudo /home/javatrix/.cargo/bin/cross build --target arm-unknown-linux-gnueabihf
+cross build --target arm-unknown-linux-gnueabihf
+sudo /home/javatrix/.cargo/bin/cross build --target arm-unknown-linux-gnueabihf
+rustc --print target-list
+rustup default stable
+sudo /home/javatrix/.cargo/bin/cross build --target arm-unknown-linux-gnueabihf
+rustup default arm-unknown-linux-gnueabihf
+rustup install arm-unknown-linux-gnueabihf
+exi
+texit
+rustup target add arm-unknown-linux-gnueabihf<\n>
+groups javatrix
+clear
+cross build --target arm-unknown-linux-gnueabihf
+groups $USER
+groups $env.USER
+docker version
+docker run hello_world
+docker run hello-world
+cd testing
+docker run hello-world
+btop
+sudo rc-service docker stop
+rc-service docker start
+dockerd
+cargo build --target arm-unknown-linux-gnueabihf<\n>
+exit
+paru -S gcc-arm-linux-gnueabihf
+paru -Ss gcc arm linux gnueabihf
+paru -S arm-linux-gnueabihf
+btop
+exit
+btop
+exit
+cargo remove cross
+cargo uninstall cross
+exit
+botp
+btop
+exit
+btop
+exit
+spotify_player 
+exit
+btop
+exit
+cargo build --target arm-unknown-linux-gnueabihf<\n>
+clear
+btop
+spotifyd
+btop
+exit
+hyprctl dispatch dpms off
+paru -S arm-linux-gnueabihf-gcc
+killall -9 hyprlock
+btop
+exit
+sudo rc-service sddm restart
+btop
+alrecord l | grep card
+nv .scripts/unmute_mic.sh
+exit
+thunar
+paru -Ss mcsrr
+paru -Ss mcsr
+exit
+cd testing
+cargo build --target arm-unknown-linux-gnueabihf<\n>
+paru -S arm-linux-gnueabihf-gcc 
+paru -R arm-linux-gnueabihf-gcc-stage1 
+paru -S arm-linux-gnueabihf-gcc 
+clear
+cargo build --target arm-unknown-linux-gnueabihf<\n>
+rm -rf .cargo/
+cargo build --target arm-unknown-linux-gnueabihf<\n>
+paru -R arm-linux-gnueabihf-linaro-bin 
+cargo build --target=arm-unknown-linux-gnueabihf
+clear
+rustup target add arm-unknown-linux-gnueabihf
+paru -S gcc-arm-linux-gnueabihf<\n>
+paru -S arm-linux-gnueabihf-gcc 
+paru -Ss raspberry pi
+paru -Ss raspberry pi compiler
+paru -Ss raspberry pi tool
+exit
+wget -qO- https://github.com/tttapa/docker-arm-cross-toolchain/releases/latest/download/x-tools-armv6-rpi-linux-gnueabihf.tar.xz | tar xJ -C ~/opt
+ls
+wget -qO- https://github.com/tttapa/docker-arm-cross-toolchain/releases/latest/download/x-tools-armv6-rpi-linux-gnueabihf.tar.xz
+ls
+wget https://github.com/tttapa/docker-arm-cross-toolchain/releases/latest/download/x-tools-armv6-rpi-linux-gnueabihf.tar.xz
+wget https://github.com/tttapa/docker-arm-cross-toolchain/releases/latest/download/ x-tools-armv6-rpi-linux-gnueabihf-gcc14.tar.xz 
+ls
+clear
+exit
+wget https://github.com/tttapa/docker-arm-cross-toolchain/releases/latest/download/x-tools-armv6-rpi-linux-gnueabihf-gcc14.tar.xz 
+clear
+ls
+tar -xf x-tools-armv6-rpi-linux-gnueabihf-gcc14.tar.xz 
+ls
+cd x-tools/ls
+cd x-tools/
+ls
+clear
+cd armv6-rpi-linux-gnueabihf/
+ls
+nvim test_main.cpp
+..
+sudo chmod +rw --recursive .
+cd -
+-
+nvim test_main.cpp
+./bin/armv6-rpi-linux-gnueabihf-g++ test_main.cpp
+ls
+exit
+ssh javatrix@192.168.0.176
+clear
+ssh javatrix@192.168.0.176
+ls
+gcc --version<\n>
+clear
+strings /usr/lib/arm-linux-gnueabihf/libstdc++.so.6 | grep GLIBCXX<\n>
+g++ -std=c++17 -o exec test_main.cpp
+pwd
+rm a.out
+cd x-tools/
+ls
+cd armv6-rpi-linux-gnueabihf/
+l
+yazi
+arm-linux-gnueabihf-gcc test_main.cpp -o exec
+arm-linux-gnueabi-gcc test_main.cpp -o exec
+arm-linux-gnueabihf-gcc  test_main.cpp -o exec
+arm-linux-gnueabihf-g++  test_main.cpp -o exec
+paru -S arm-linux-gnueabi-gcc 
+arm-linux-gnueabihf-g++  test_main.cpp -o exec
+clear
+paru -S g++-arm-linux-gnueabihf
+paru -S arm-linux-gnueabihf-g++
+paru -S arm-linux-gnueabihf-gc
+paru -Ss binutils-arm-linux-gnueabi
+paru -Ss binutils arm linux gnueabi
+exit
+cd waybar
+nv style.css
+exit
+btop
+exit
+btop
+exit
+swww query
+rm /home/javatrix/Pictures/Wallpapers/Aesthetic/puppy.jpg
+exit
+paru -S arm-linux-gnueabihf-gcc
+cd testing
+ls
+cargo build --target=arm-unknown-linux-gnueabihf
+exit
+btop
+exit
+btop
+exit
+nv
+playerlabel.sh
+playerctl_label.sh 
+nvim .scripts/playerctl_label.sh 
+exit
+zsh
+exit
+tmux
+btop
+exit
+btop
+exit
+sudo ufw status
+exit
+cd testing
+ls
+cargo build --target=arm-unknown-linux-gnueabihf
+ls
+nv Cargo.toml
+rustup target add arm-unknown-linux-gnueabihf
+export CC=arm-linux-gnueabihf-gcc<\n>export CXX=arm-linux-gnueabihf-g++<\n>
+$env.CC=arm-linux-gnueabihf-gcc<\n>$env.CXX=arm-linux-gnueabihf-g++
+cargo build --target=arm-unknown-linux-gnueabihf
+which arm-linux-gnueabihf-gcc<\n>
+cd testing
+mkdir .cargo
+exit
+nvim .cargo/config.toml
+clear
+rustup target add arm-unknown-linux-gnueabihf<\n>
+clear
+file /tmp/rustcYrWcjL/symbols.o<\n>
+clear
+cargo build --target=arm-unknown-linux-gnueabihf
+ls
+clear
+cargo build --target=arm-unknown-linux-gnueabihf --release
+clear
+ssh javatrix@192.168.0.176
+clear
+ssh javatrix@192.168.0.176
+clear
+ssh javatrix@192.168.0.176
+ssh javatrix@raspberrypi.local
+ssh javatrix@raspberrypi
+ssh javatrix@192.168.0.177
+ssh javatrix@192.168.0.176
+ssh javatrix@192.168.0.175
+clear
+sudo nmap -T5 192.168.0.0/24
+pwd
+ls target/arm-unknown-linux-gnueabihf/release/testing
+ip addr
+sudo rc-service sshd start 
+clear
+clear
+cargo build --target=arm-unknown-linux-gnueabihf --release
+nv
+cargo build --target=arm-unknown-linux-gnueabihf --release
+cargo add linux-embedded-hal mpu6050
+cargo build --target=arm-unknown-linux-gnueabihf --release
+clear
+cargo build --target=arm-unknown-linux-gnueabihf --release
+cargo add mpu6050
+cargo build --target=arm-unknown-linux-gnueabihf --release
+nv
+exit
+ssh javatrix@192.168.0.181
+tmux
+exit
+cd hypr
+nv
+cd hypr
+nv
+exti
+exit
+cd waybar
+nv
+exit
+sudo modprobe -r kvm_intel
+exit
+clear
+exit
+btop
+exit
+groups
+sudo usermod -aG vboxusers javatrix
+exit
+clipse -kill
+bash
+exit
+btop
+exit
+cd testing
+clear
+ls
+ssh javatrix@192.168.0.181
+cd nvim
+gst
+g diff
+cm "Some cmp tweaks, add kanagawa back (when did it go away?)"
+gp
+nv
+exit
+sudo nmap -A 192.168.0.0/24
+clear
+cargo build --target=arm-unknown-linux-gnueabihf --release
+botp
+btop
+exit
+sudo nmap 192.168.0.0/24
+sudo rc-service sshd start 
+ssh javatrix@192.168.0.181
+clear
+cargo build --target=arm-unknown-linux-gnueabihf --release
+nv
+exit
+ssh javatrix@192.168.0.181
+paru -Ss bluetooth tray
+paru -S bluebao
+bluebao
+paru -R bluebao
+clear
+paru -Ss bluetooth tray
+paru -S blueberry-wayland
+blueberry 
+blueberry-tray
+exit
+blueberry-tray 
+btop
+tldr safechild
+man safechild
+safechild --help
+plocaet safechild
+plocate safechild
+safechild
+btop
+paru -Ss tray blue
+paru -Ss waybar bluetooth
+cd waybar
+nv
+clear
+cd testing
+clear
+nv
+tmu
+cd nvim
+nv
+nv
+exi
+clear
+nv
+exit
+tmux
+exit
+cd nvim
+ls
+gst
+clear
+cm "Always save and restore neovim session"
+gp
+cd waybar
+hyprctl monitors
+nv .config/hypr/monitors.conf
+cd waybar
+nv
+exit
+btop
+paru -Ss cpu temperature
+btop
+exit
+fastfetch 
+cd conf
+nv fastfetch/config.jsonc
+pwd
+clear
+ls
+cd fastfetch/
+nv config.jsonc
+cd nvim
+ls
+clear
+nv
+cm "Fix stupid shit"
+gp
+ga lua/config/session-restore.lua
+cm "Fix stupid shit"
+gp
+clear
+cd conf
+man fastfetch
+exit
+fastfetch 
+exit
+nv fastfetch/config.jsonc
+exit
+fastfetch 
+exit
+bash
+rm .bash_history
+exit
+cd rust
+ls
+cd RaspberryPi/
+bash
+exit
+nv .config/nushell/history.txt
+exit
+nv
+exit
+yazi
+exit
+botp
+btop
+tlp
+sudo tlp start
+btop
+sudo tlp true
+btop
+sudo tlp-stat 
+sudo tlp-stat | nv
+sudo tlp-stat | less
+exit
+powertop
+sudo powertop
+clear
+sudo tlp autotune
+sudo tlp --autotune
+exit
+nv
+exit
+spotify_player 
+exot
+exit
+cd hypr
+nv
+rm -rf ~/.nvim/session/
+clear
+nv
+pwd
+nv
+ls
+nv .
+clear
+cd hypr
+nv
+cd c hypr
+nv
+cd nvim
+ls
+nv
+cm "Remove session restore"
+gp
+cd hypr
+clear
+nv
+exit
+paru -Ss gnome disks
+paru -S nautilus-gnome-disks 
+exit
+paru -Ss balena etcher
+paru -S balena-etcher r
+paru -S balena-etcher
+./balenaEtcher-1.7.9-ia32.AppImage
+paru -Ss fuse
+paru -Ss lib fuse
+paru -Ss fuse appimage
+paru -Ss fuse app image
+which fusermount
+fusermount 
+fusermount --help
+tldr fusermount
+sudo chmod u+s `which fusermount`
+sudo chmod u+s $"{which fusermount}"
+zhs
+zsh
+exit
+./balenaEtcher-1.7.9-ia32.AppImage
+./balenaEtcher-1.7.9-ia32.AppImage --appimage-extract
+./balenaEtcher-1.7.9-ia32.AppImage
+cd squashfs-root/
+./AppRun
+..
+rm -rf squashfs-root/ balenaEtcher-1.7.9-ia32.AppImage
+exit
+sudo modprobe -r kvm_intel
+ping google.com
+exit
+iwctl
+sudo dmesg
+sudo rc-service iwd restart
+iwctl
+sudo dmesg
+sudo rc-service evremap restart
+cd hypr
+sudo cat /var/lib/iwd/zuczole_gorne.psk
+btop
+clamd
+man clamd
+clear
+btop
+sudo ufw enable
+clear
+exit
+btop
+exit
+ssh root@192.168.0.194
+tmxu
+ssh root@192.168.0.194
+ssh 192.168.0.194
+tldr curl
+ls .cache/hyprland/
+nv .cache/hyprland/hyprlandCrashReport7216.txt
+exit
+curl parrot.live
+exit
+tmux
+exit
+paru -Ss user feedback
+paru -R kuserfeedback 
+paru -R kuserfeedback  kate
+exit
+nv
+exit
+nv /home/javatrix/.local/share/PrismLauncher/instances/MCSRRanked-Linux-1.16.1-All/minecraft/hs_err_pid18192.log
+exit
+ssh debby@192.168.0.194 
+ssh debby@192.168.0.194 
+cd hypr
+nv
+exit
+ssh debby@192.168.0.194
+ssh debby@192.168.0.194 
+tmux
+swww query
+man evremap
+evremap --help
+tldr evremap
+sudo nvim /etc/evremap.toml 
+sudo rc-service evremap restart
+sudo nvim /etc/evremap.toml 
+sudo rc-service evremap restart
+sudo nvim /etc/evremap.toml 
+sudo rc-service evremap restart
+sudo nvim /etc/evremap.toml 
+sudo rc-service evremap restart
+clear
+sudo rc-service evremap restart
+botp
+btop
+sudo evremap remap /etc/evremap.toml 
+evremap list-keys
+evremap list-keys | grep super
+evremap list-keys | grep windows
+evremap list-keys | grep meta
+clear
+sudo nvim /etc/evremap.toml 
+sudo rc-service evremap restart
+xev
+paru -S xev
+clear
+paru -Ss x input
+paru -Ss x input test
+clear
+evremap list-keys | less
+sudo nvim /etc/evremap.toml 
+evremap list-keys | grep META
+sudo nvim /etc/evremap.toml 
+sudo rc-service evremap restart
+exit
+bto
+btop
+cd Documents/
+ls
+wget https://openbible.com/textfiles/asv.txt
+mv asv.txt bible.txt
+nv bible.txt
+clear
+cat bible.txt | shuf -n 1
+mako `cat bible.txt | shuf -n 1`
+notify-send `cat bible.txt | shuf -n 1`
+notify-send $"{cat bible.txt | shuf -n 1}"
+notify-send $"${cat bible.txt | shuf -n 1}"
+clear
+cd Downloads/
+ls
+rm haos_generic-x86-64-13.2.img haos_ova-13.2.vdi ubuntu-24.04.1-live-server-amd64.iso debian-12.8.0-amd64-netinst.iso
+ls
+clear
+nv pol_nbg.txt
+rm pol_nbg.txt
+clear
+exit
+zsh
+cd hypr
+nv
+ssh root@192.168.0.194
+clear
+cd Downloads/
+clear
+ls
+pacman-key -v archlinux-x86_64.iso.sig
+sudo pacman-key -v archlinux-x86_64.iso.sig
+rm archlinux-x86_64.iso.sig
+clear
+ls
+clear
+tmux
+exit
+ssh root@192.168.0.194
+paru -Ss paru
+ssh root@192.168.0.187
+ssh root@192.168.0.194
+clear
+nv /home/javatrix/.ssh/known_hosts
+ssh root@192.168.0.194
+paru
+gdu
+sudo gdu
+clear
+exit
+sudo timeshift --create
+timeshift --list
+sudo timeshift --list
+paru
+paru -S jre21-openjdk-headless 
+paru -S jre21-openjdk 
+clear
+exit
+clear
+exit
+ssh archie@192.168.0.194
+nv /etc/evremap.toml
+exit
+evremap list-keys | grep TILDE
+evremap list-keys | grep APOS
+evremap list-keys | grep QUOTE
+evremap list-keys | grep QUO
+evremap list-keys | grep BACK
+evremap list-keys | grep GRAVE
+ssh archie@192.168.0.194
+celar
+clear
+ssh archie@192.168.0.194
+tmux
+nv
+mv napkin napkin.norg
+nv napkin.norg
+exit
+paru -S firefox-bin
+cd Documents/
+cat bible.txt | shuf -n 1
+paru -Ss among us
+btop
+gdu
+duf
+clear
+cd Documents/
+cat bible.txt | shuf -n 1
+killall kitty
+botp
+btop
+nv .scripts/restart_hyprlock.sh
+chmod +x .scripts/*
+clear
+.scripts/restart_hyprlock.sh
+killall -9 hyprlock
+.scripts/restart_hyprlock.sh
+killall -9 hyprlock
+hyprctl --instance 0 'dispatch exec hyprlock'
+btop
+clear
+sudo rc-service sddm restart
+btop
+fastfetch 
+tazi
+cd conf
+clear
+fastfetch 
+clear
+fastfetch 
+clear
+nv fastfetch/config.jsonc
+fastfetch 
+paru -Ss terminal donut
+paru -Ss donut
+paru -S donut.cs
+paru -S donut.c
+donut 
+clear
+donut 
+clear
+donut 
+clear
+yazi
+cd hypr
+nv
+clear
+tldr wfrecorder
+man wfrecorder
+tldr wf-recorder
+man wf-reorder
+cava
+pactl list-sources | grep Name
+pactl list-sources | grep Name\
+pactl list-sources | grep Name
+pactl list sources | grep Name
+pactl list sources
+pactl list sources | grep Descriptor
+pactl list sources | grep Description
+man wf-recorder
+cd hypr
+nv
+cd hypr
+pactl list sources | grep Description | awk -F' ' '{print $2}' | rofi -dmenu -sep '\n'
+pactl list sources | grep Description | awk -F' ' '{print $2..}' | rofi -dmenu -sep '\n'
+pactl list sources | grep Description | awk -F' ' '{$1=""; print $2..}' | rofi -dmenu -sep '\n'
+pactl list sources | grep Description | awk -F' ' '{$1=""; print $2}' | rofi -dmenu -sep '\n'
+pactl list sources | grep Description | awk -F' ' '{$1=""; print $0}' | rofi -dmenu -sep '\n'
+clear
+donut 
+clear
+cava
+pactl list sources | grep Description | awk -F' ' '{$1=""; print $0}' | rofi -dmenu -sep '\n'
+echo wasd
+clear
+pactl list sources | grep Description | awk -F' ' '{$1=""; print $0}' | rofi -dmenu -sep '\n' | xargs
+hyprctl reload
+spotifyd
+zsh
+hyprctl reload
+yazi
+exit
+curl parrot.live
+tmux
+nv
+gst --untracked-files=no
+nv binds.conf
+rm mcsrbinds.conf
+cm "Remove MCSR binds, make wf-recorder pick audio"
+gp
+clear
+cd nvim
+s
+gst --untracked-files=no
+clear
+paru -Ss video
+paru -Ss terminal
+paru -Ss terminal video
+ytfzf
+paru -Qs terminal video
+paru -Qs video
+paru -S ytfzf
+ytfzf
+paru -S ytfzf
+y
+ytfzf 
+mpvpaper Videos/Wallpapers/amber-and-cat-genshin-impact-moewalls-com.mp4
+tldr mpvpaper
+man mpvpaper
+mpvpaper DP-1 Videos/Wallpapers/amber-and-cat-genshin-impact-moewalls-com.mp4
+mpv --player-operation-mode=pseudo-gui --screen=1 Videos/Wallpapers/ayaka-x-ganyu-genshin-impact-moewalls-com.mp4 
+mpv --screen=1 Videos/Wallpapers/ayaka-x-ganyu-genshin-impact-moewalls-com.mp4 
+mpv Videos/Wallpapers/ayaka-x-ganyu-genshin-impact-moewalls-com.mp4 
+mpvpaper '*' Videos/Wallpapers/ayaka-x-ganyu-genshin-impact-moewalls-com.mp4
+swww kill
+mpvpaper '*' Videos/Wallpapers/ayaka-x-ganyu-genshin-impact-moewalls-com.mp4
+paru -Qs mpvpaper
+zsh
+mpvpaper '*' Videos/Wallpapers/ayaka-x-ganyu-genshin-impact-moewalls-com.mp4
+paru -S mpvpaper-git 
+paru -Rns mpvpaper
+paru -S mpvpaper-git 
+clear
+mpvpaper '*' Videos/Wallpapers/ayaka-x-ganyu-genshin-impact-moewalls-com.mp4
+paru -R mpvpaper
+paru -R mpvpaper-git 
+clear
+paru
+cd hyp
+nv
+paru -Ss default applications
+paru -S selectdefaultapplication-git 
+cava
+exit
+ps aux | wc
+clear
+ps --help
+ps
+ps -a
+ps --long 
+clear
+btop
+sudo tlp 
+sudo tlp  start
+sudo tlp  true
+rc-service tlp
+rc-service tlp status
+sudo rc-service tlp enable
+sudo rc-service enable tlp
+sudo rc-service tlp start
+sudo rc-update add tlp
+btop
+paru -Qs r
+paru -Qs r runtime
+paru -Qs
+paru -Qsq
+paru
+sudo timeshift --create
+timeshift --list
+sudo timeshift --list
+clear
+paru -Qs $"${paru -Qsqn}"
+clear
+paru -Qdtq
+paru -Qdtq | paru -Rsu --print -
+zsh
+duf
+paru -Qdtq | paru -Rns -
+gdu
+duf
+paru -S opencl-headers
+paru -Qqd | pacman -Rsu --print -
+ssh archie@192.168.0.194
+clear
+ssh archie@192.168.0.194
+clear
+ssh archie@192.168.0.194
+tmu
+watch ping 192.168.0.194
+watch `ping 192.168.0.194`
+watch "ping 192.168.0.194"
+man watch
+watch ping 192.168.0.194
+zsh
+ssh archie@192.168.0.187
+clear
+ssh archie@192.168.0.187
+nv /etc/default/grub
+tldr umask
+sudo rc-service sql start
+paru -Ss sql openrc
+paru -S postresgl-openrc
+paru -S postresqgl-openrc
+paru -S postresql-openrc
+paru -S postgresql-openrc 
+sudo rc-service postgres star
+sudo rc-service postgres start
+sudo rc-service postgresql start
+sudo mv /var/lib/postgres/data/*.conf /var/lib/postgres/data/
+postgres 
+sql
+tmux
+ssh archie@192.168.0.187
+rm .cache/kdeconnect.app/
+rm -rf .cache/kdeconnect.app/
+btopp
+btop
+paru -R firefox-bin 
+kdeconnect-app 
+clear
+paru -Ss kde connect
+vesktop 
+paru -S vesktop-bin 
+vesktop 
+discord 
+paru -S vesktop-electron 
+vesktop 
+vesktop --help
+rm Videos/Recordings/21-42-47_04_42.mp4
+hyprctl reload
+hyprctl --help
+hyprctl setcursor
+hyprctl setcursor 24
+paru -
+paru -Qs rofi
+swww query
+paru -Ss hazel
+git clone --recursive -b dev https://github.com/StudioCherno/Hazel
+btop
+paru -S lm-sensors
+paru -S fancontrol
+paru -Ss fancontrol
+paru -Ss fan control
+paru -Ss fan control lenovo
+paru -S lenovolegionlinux-git 
+btop
+clipse -kill
+zsh
+btop
+fancontrol --help
+sudo fancontrol --help
+man fancontrol
+cd hypr
+btop
+paru -S gnome
+cd hypr
+nv
+sudo rc-service evremap restart
+spotifyd
+btop
+acpi_listen 
+sudo -u javatrix DISPLAY=:1 XGD_RUNTIME_DIR=/run/user/1000 playerctl play-pause
+playerctl
+playerctl status
+clear
+printenv
+sudo printv
+sudo printenv
+sudo -l printenv
+sudo printenv -l
+sudo su -l printenv
+sudo su -l -c printenv
+sudo su javatrix -l -c printenv
+sudo su -u javatrix -l -c printenv
+man su
+sudo su -u javatrix -E printenv
+sudo su -u javatrix -E -c printenv
+sudo -u javatrix -E -c printenv
+sudo -u javatrix -E printenv
+sudo nvim /etc/acpi/events/play-pause 
+sudo nvim /etc/acpi/events/prev 
+cd /etc/acpi/events/
+ls
+sudo nvim
+sudo rc-service acpid restart
+acpi_listen 
+cd /etc/acpi/events/
+ls
+nvim anything 
+sudo dmesg
+sudo dmesg --follow 
+man acpid
+sudo rc-service acpid status
+sudo rc-service acpid loggen 
+sudo rc-service acpid log
+nv /var/log/acpid.log
+sudo nvim /var/log/acpid.log
+clear
+cd /etc/acpi/events/
+ls
+sudo nvim ../handler.sh 
+sudo follow tail /var/log/acpid.log 
+nv ../handler.sh
+sudo -E -u javatrix playerctl next
+sudo -E -u javatrix playerctl play-pause
+sudo -E -u javatrix pactl set-sink-volume @DEFAULT_SINK@ +1%
+sudo nvim next 
+sudo rc-service acpid restart
+sudo watch tail /var/log/acpid.log 
+cd /etc/acpi/events/
+sudo nvim
+sudo su
+sudo rc-service acpid restart
+sudo watch tail /var/log/acpid.log 
+cd /etc/acpi/events/
+clear
+ls
+bat play-pause 
+sudo -E -u javatrix HOME=/home/javatrix XDG_RUNTIME_DIR=/run/user/$(id -u javatrix) playerctl play-pause
+man pulseaudio
+man pipewire-pulse
+man pipewire
+pipewire -D
+pipewire-pulse -D
+tldr pipewire
+sudo su
+cd /etc/acpi/events/
+nv
+sudo -E -u javatrix HOME=/home/javatrix XDG_RUNTIME_DIR=/run/user/$(id -u javatrix) pactl set-sink-volume @DEFAULT_SINK@ +1%
+man su
+sudo su -m -u javatrix HOME=/home/javatrix XDG_RUNTIME_DIR=/run/user/$(id -u javatrix) pactl set-sink-volume @DEFAULT_SINK@ +1%
+man su
+sudo su -m -u javatrix -c pactl set-sink-volume @DEFAULT_SINK@ +1%
+sudo su -m javatrix -c pactl set-sink-volume @DEFAULT_SINK@ +1%
+sudo su -m javatrix -c=pactl set-sink-volume @DEFAULT_SINK@ +1%
+sudo su -m javatrix -c='pactl set-sink-volume @DEFAULT_SINK@ +1%'
+sudo su -m javatrix -c pactl set-sink-volume @DEFAULT_SINK@ +1%
+man su
+sudo su -m javatrix -c pactl set-sink-volume @DEFAULT_SINK@ +1%
+sudo su -m javatrix -c pactl
+sudo su -m javatrix -c 
+sudo su -m javatrix -c printenv
+sudo -E su -m javatrix -c printenv
+clear
+sudo -E su -m javatrix -c playerctl status
+sudo -E su -m javatrix -c 'playerctl status'
+sudo -E su -m javatrix -c 'pactl set-sink-volume @DEFAULT_SINK@ +1%'
+sudo nvim
+pactl --help
+pact set-sink-mute @DEFAULT_SINK@ toggle
+pactl set-sink-mute @DEFAULT_SINK@ toggle
+sudo rc-service acpid restart
+sudo watch tail /var/log/acpid.log 
+sudo nvim
+man tmux
+sudo -E -u javatrix HOME=/home/javatrix XDG_RUNTIME_DIR=/run/user/$(id -u javatrix) playerctl play-pause
+sudo su
+sudo -E su -m javatrix -c 'playerctl play-pause'
+sudo su
+sudo su -m
+nvim
+tmux
+cd hypr
+nv
+cd /etc/acpi/events/
+ls
+cd hypr
+sudo nvim play-pause 
+sudo watch tail /var/log/acpid.log --interval 1
+sudo watch --interval 1 tail /var/log/acpid.log
+xev
+paru -S xev
+paru -Ss xev
+wev
+rc-update --hlep
+rc-update --help
+rc-update -a
+btop
+cd hypr
+n
+nv
+sudo rc-update add pipewire 
+paru -Ss pipewire-openrc
+paru -S pipewire-openrc
+sudo rc-update add pipewire 
+paru -S pipewire-pulse-openrc
+sudo rc-update add pipewire-pulse
+cd hypr
+btop
+sudo rc-service pipewire restart
+wireplumber
+sudo usermod -aG pipewire javatrix
+btop
+sudo wireplumber
+wireplumber
+groups
+tldr groups
+groupmems 
+groupmems javatrix
+clear
+cd hypr
+nv
+sudo watch --interval 1 tail /var/log/acpid.log
+cd /etc/acpi/events/
+ls
+nv vol-d
+sudo -E su -m javatrix -c 'pactl set-sink-volume @DEFAULT_SINK@ -1%'
+sudo su
+sudo rc-service acpid restart
+sudo nvim
+cd hypr
+sudo su
+sudo nvim
+cd vol-m
+nv vol-m
+su javatrix
+sudo su
+printenv
+sudo su
+wpctl
+cd /etc/acpi/events/
+ls
+sudo su
+sudo rc-service acpid restart
+sudo su
+sudo nvim
+ls
+lsa
+ls
+lsa
+cear
+ls
+clear
+ls
+sudo dmesg
+clear
+sudo rc-service acpid restart
+tldr playerctl
+playerctl --list-all
+clear
+sudo rc-service acpid restart
+sudo su
+sudo nvim /test.sh
+sudo chmod +x /test.sh 
+sudo watch --interval 1 tail /var/log/acpid.log
+tmuxz
+clear
+mpc
+sudo watch --interval 1 tail /var/log/acpid.log
+tmux
+sudo rm /test.sh 
+sudo nvim
+nv
+acpi_listen 
+wev
+paru -Ss digimend
+paru -S digimend-kernel-drivers-dkms 
+digimend-debug 
+sudo modprobe -r hid-kye hid-uclogic hid-polostar hid-viewsonic
+sudo reboot
+sudo dmesg
+clear
+sudo lsmod
+sudo lsmod | grep digimend
+sudo lsmod | grep digi
+sudo lsmod | grep driver
+nv /var/lib/dkms/digimend-kernel-drivers/11.r41.ge359a05/build/make.log
+paru -S digimend-kernel-drivers-dkms-git
+nv /var/lib/dkms/digimend-kernel-drivers/11.r41.ge359a05/build/make.log
+clear
+paru -S opentabletdriver 
+cava
+n
+clear
+xev
+clear
+cd C
+cd src/c
+cd src
+cd s rc
+clear
+mkdir C
+cd C/
+ls
+mkdir IT
+cd IT/
+clear
+touch main.cpp
+clear
+nvim ./run.sh
+clear
+chmod +x run.sh 
+clear
+nv main.cpp
+./run.sh
+clear
+clear
+btop
+paru
+clear
+btop
+./run.sh 
+clear
+btop
+cd nvim
+clear
+ls
+nv
+nv
+clear
+gst --untracked-files=no
+cm "Add code folding"
+gp
+./run.sh 
+curl parrot.live
+clear
+curl parrot.live
+./run.sh
+sudo nvim /etc/locale.conf 
+./run.sh
+clear
+file a.out 
+clear
+ls -al a.out
+clear
+./run.sh
+cd nvim
+nv
+./run.sh
+nv
+nv
+paru -Ss magnifier
+paru -S magnus
+paru -R magnus
+clear
+gdu
+ls
+gdu
+clear
+tmux
+cd hypr
+nv
+cd local
+cd share/krita/
+ls
+cd brushes/
+ls
+thunar
+start-stop-daemon otd-daemon
+killall otd-daemon
+btop
+start-stop-daemon otd-daemon
+btop
+paru -Ss qogir
+paru -S qogir-icon-theme
+paru -S qogir-gtk-theme-git
+btop
+sudo ufw disable
+sudo ufw status
+btop
+ip addr
+kdeconnectd 
+btop
+sudo ufw list
+sudo ufw status numbered
+sudo ufw enable
+sudo ufw status
+paru -Ss smart connect
+kdeconnect-app 
+sudo ufw status\
+sudo ufw status
+sudo ufw disable
+sudo iwctl restart
+sudo rc-service iwd restart
+psaux | grep kdeconnect
+ps aux | grep kdeconnect
+ps | grep kdeconnect
+clear
+kdeconnectd
+btop
+sudo iptables
+sudo iptables -A 
+sudo iptables -L
+btop
+man iptables
+tldr iptables
+sudo iptables --verbose --numberic --list --line-numbers
+sudo iptables --verbose --numeric --list --line-numbers
+clear
+kdeconnect-cli -l
+clear
+sudo dmesg
+sudo dmesg | grep connect
+clear
+sudo ufw allow 1714:1764/tcp
+sudo ufw allow 1714:1764/udp
+sudo ufw reload
+sudo ufw enable
+sudo ufw status
+clear
+sudo rc-service ufw enable
+sudo rc-service ufw start
+btop
+sudo rc-update add ufw 
+clear
+rc-update -a
+clear
+btop
+ping 192.168.0.170
+ip addr
+sudo netstat -nlp
+paru -S netstat
+paru -Ss netstat
+paru -S netstat-nat
+clear
+sudo netstat -nlp
+sudo netstat-nat  -nlp
+paru -R netstat-nat
+paru -Ss net tools
+paru -S net-tools
+netstat
+sudo netstat-nat  -nlp
+sudo netstat -nlp
+sudo ufw allow proto icmp<\n>
+ip a
+ping 192.168.0.170
+paru
+paru 
+paru -Qs nvidia
+btop
+nft 
+tldr nft
+sudo nft list ruleset
+rc-service nft status
+sudo nft --handle --numeric list chain
+clear
+tldr nft
+paru -S nvidia-dkms
+echo 'echo pray' | save ~/.config/nushell/startup.nu
+echo 'echo pray' | append  ~/.config/nushell/startup.nu
+nv  ~/.config/nushell/startup.nu
+clear
+nv  ~/.config/nushell/startup.nu
+paru -Ss kafka
+paru -Ss afmongodb
+nv /var/log/rc.log
+cd /timeshift/
+ls
+ls snapshots/
+sudo rm -rf snapshots/2024-12-01_11-22-39/
+gdu /
+duf
+clear
+nvidia-smi
+btop
+cd Downloads/
+unzip feline-win-64.zip 
+ls
+./Feline.exe
+wine ./Feline.exe
+chmod +x ./Feline.exe
+./Feline.exe
+clear
+paru -Ss wine
+paru -Ss winetricks
+paru -Ss wine
+paru -S wine
+paru -S winetricks
+wine ./Feline.exe 
+paru -S dxvk-bin 
+clear
+winetricks 
+wine ./Feline.exe 
+wine64 ./Feline.exe -dx11
+wine ./Feline.exe 
+winetricks d3dx11
+vulkaninfo
+paru-Ss vulkan
+winetricks dxvk
+paru -Ss vulkan
+clear
+wine ./Feline.exe 
+cd d
+wine ./Feline.exe 
+ls
+rm 0rf Engine/ *eline* 
+ls
+rm -rf Engine/ *eline* 
+ls
+rm 0rf FileOpenOrder/ Manifest_NonUFSFiles_Win64.txt
+rm -rf FileOpenOrder/ Manifest_NonUFSFiles_Win64.txt
+cd hypr
+nv
+cd waybar
+paru -Ss gtk debug
+$env.GTK_DEBUG=1 waybar
+$env.GTK_DEBUG=1 $nu waybar
+$env.GTK_DEBUG=1
+zsh
+GTK_DEBUG=interactive waybar
+nv
+btop
+swww query
+rm /home/javatrix/Pictures/Wallpapers/random_wallpaper.png
+paru -Ss jarvis
+gcl https://github.com/sukeesh/Jarvis
+cd Jarvis/
+ls
+nv ./setup.sh
+chmod +x ./setup.sh
+./setup.sh
+paru -S virtualenv
+paru -Ss virtualenv
+paru -S python-virtualenv
+clear
+./setup.sh
+nv /tmp/tmpb4nmg1uk
+ls
+..
+rm -rf Jarvis/
+git clone https://github.com/omegaui/linux-voice-control<\n>cd linux-voice-control<\n>./install.sh
+linux-voice-control-gui
+linux-voice-control
+paru -S python-pyaudio
+linux-voice-control
+paru -S python-whisper
+linux-voice-control
+paru -S python-openai
+linux-voice-control
+paru -S python-speechbrain
+paru -Ss python speechbrain
+paru -S python-speechbrain-git
+clear
+paru -Rs python-speechbrain-git python-pyaudio python-whisper
+paru -Rs  python-pyaudio python-whisper
+bat ~/.config/nushell/history.txt 
+npm install --global @leon-ai/cli
+sudo npm install --global @leon-ai/cli
+leon create birth
+nv /home/javatrix/.config/@leon-ai/cli/log-errors.txt
+leon create birth
+ping github.com
+ping google.com
+sudo rc-service iwctl restart
+sudo rc-service iwd restart
+nv /var/log/rc.log
+sudo dmeshg
+sudo dmesg
+btop
+rc-service tlp status
+btop
+sudo tlp start
+btop
+sud ufw status
+sudo ufw status
+sudo ufw --help
+sudo ufw delete 1714:1764/tcp
+sudo ufw delete 1714
+sudo ufw delete Apps/
+sudo ufw delete 
+sudo ufw status numbered
+sudo ufw delete 1 2 3 4
+sudo ufw status numbered
+sudo ufw delete 1
+clear
+sudo ufw reload
+leon create birth
+lshw
+sudo lshw
+clear
+paru -Qs hardware
+hwdata
+sys 
+sys host
+sys cpu
+sys net
+sysinfo
+clear
+sudo dmidecode -s bios-version
+sudo dmidecode
+sudo dmidecode | nvim -
+clear
+sudo dmidecode 
+sudo dmidecode  | grep bios
+sudo dmidecode  | grep BIOS
+sudo dmidecode | save t.txt
+paru
+clear
+paru
+paru -Syu carapace-bin discord_arch_electron osu-lazer-bin vesktop-electron cava-git flameshot-git
+paru -Su carapace-bin discord_arch_electron osu-lazer-bin vesktop-electron cava-git flameshot-git
+paru -S carapace-bin discord_arch_electron osu-lazer-bin vesktop-electron cava-git flameshot-git
+clear
+paru -S grub
+grub-install --help
+grub-install --target=x86_64-efi --efi-directory=/boot/EFI/ --botloader-id=GRUB
+grub-install --target=x86_64-efi --efi-directory=/boot/EFI/ --bootloader-id=GRUB
+sudo grub-install --target=x86_64-efi --efi-directory=/boot/EFI/ --bootloader-id=GRUB
+clear
+sudo grub-update
+grub-update
+sudo update-grub 
+pwd
+ls
+clear
+nvidia-smi
+paru
+iwctl
+sudo rc-service iwd restart
+iwctl
+btop
+btop --utf-force
+LS
+ls
+sudo iwd
+sudo /lib/iwd/iwd
+sudo timeshift --list
+sudo timeshift --restore
+lsblk
+sudo timeshift --restore
+sudo mkinitcpio -P
+sudo downgrade linux linux-headers linux-zen linux-zen-headers 
+sudo downgrade linux linux-headers
+sudo reboot
+paur
+paru
+paru -S linux-lts linux-lts-headers
+paru
+clear
+cd rust
+ls
+clear
+cargo new glium_tests
+rustup target add default
+paru -S rustup
+cargo
+clear
+cargo new glium_tests
+cd glium_tests/
+clear
+cargo add glium
+clear
+cargo r
+clear
+cargo r
+cargo add imgae
+cargo add image
+cargo r
+cargo add glutin
+cargo add winit
+nv
+cargo r
+tmux
+spot
+sudo dmidecode
+sudo dmidecode | grep Model
+sudo dmidecode | grep Vendor
+sudo dmidecode | save t.txt
+rm t.txt
+sudo dmidecode | save t.txt
+fastfetch 
+duf
+gdu /games
+gdu /media/games
+gdu /media/javatrix/games/
+btop
+sudo netstat -tunelp | grep -i kdeconnect<\n>
+clear
+sudo nmap 192.168.0.170
+sudo nmap -Pn 192.168.0.170
+sudo nmap -A -Pn 192.168.0.170
+sudo nmap -O -Pn 192.168.0.170
+clear
+sudo ufw allow 1714:1764/udp<\n>sudo ufw allow 1714:1764/tcp<\n>sudo ufw reload<\n>
+paru
+sudo nmap 192.168.0.0/24
+nv
+rm wasd
+clear
+netcat -z -v 192.168.0.170 1714-1764
+netcat -z -v 192.168.0.171 1714-1764
+kdeconnect-app 
+paru -S kdeconnect-git 
+sudo rc-service NetworkManager start
+paru -S networkmanager-openrc 
+sudo rc-service NetworkManager start
+sudo ufw disable
+nv .config/kdeconnect/config
+rm -rf .config/kdeconnect/config
+kdeconnect-app 
+rm -rf .config/*kde*
+rm -rf .config/*KDE*
+kdeconnect-app 
+nvim /etc/nftables.conf 
+btop
+paru -Qs nftables
+paru -Rs nftables
+paru -Rs nftables dnsmasq
+paru -Qs firewall
+btop
+iptables
+paru -Qs iptables
+paru -Rs iptables
+clear
+kdeconnect-app 
+sudo downgrade kdeconnect
+sudo downgrade kdeconnect-git
+sudo downgrade kdeconnect-
+sudo downgrade kdeconnect
+killall kdeconnectd
+kdeconnect-cli --refresh
+paru -S kdeconnect
+kdeconnect-cli --refresh
+kdeconnect-cli -l
+ip a
+kdeconnect-app 
+kdeconnect-app btop
+btop
+kdeconnect-app
+sudo kdeconnectd
+iptables
+sudo iptables -L
+sudo ip6tables -L
+clear
+ip a
+sudo rc-service avahi-daemon start<\n>sudo rc-update add avahi-daemon default
+paru -S avahi-daemon-openrc
+paru -Ss avahi daemon
+paru -Ss daemon
+paru -Ss avahi
+paru -S avahi-openrc
+sudo rc-service avahi-daemon start<\n>sudo rc-update add avahi-daemon default
+clear
+sudo downgrade kdeconnect
+kdeconnect-cli --version
+sudo ip addr del 192.168.0.116/24 dev wlan0<\n>
+sudo rc-service iwd restart
+ip a
+clear
+kdeconnect-cli --debugE
+kdeconnect-cli --debug
+kdeconnect-cli --debug
+avahi-browse  -a
+avahi-browse 
+avahi-browse --help
+avahi-browse -a
+ip a
+sudo dhclient -r wlan0<\n>sudo dhclient wlan0<\n>
+sudo ip link set wlan0 down<\n>sudo ip link set wlan0 up<\n>
+lsblk
+sudo mkfs.ntfs /dev/sda 
+sudo mkfs.ntfs /dev/sda1
+lsblk
+sudo mount /dev/sda1 /mnt
+lsblk
+sudo echo /dev/null
+sudo cat /dev/null
+sudo echo /dev/null > /dev/sda2
+sudo zshecho /dev/null > /dev/sda2
+zsh
+lsblk
+sudo mkfs.ntfs /dev/sda2
+sudo mount /dev/sda2 /mnt
+clear
+sudo mount /dev/sda2 /mnt
+sudo dmesg
+clear
+sudo mkfs.ext4 /dev/sda2
+lsblk
+sudo umount /run/media/javatrix/29dabdb0-9196-46b6-b701-bb6cf8cec475 
+lsblk
+sudo cfdisk /dev/sda
+clear
+lsblk
+cfdisk /dev/nvme1n1 
+sudo cfdisk /dev/nvme1n1 
+sudo cfdisk /dev/nvme0n1
+sudo cfdisk /dev/sda
+sudo -E legion_gui 
+sudo legion_cli --help
+btop
+obs-studio
+obs 
+paru -S obs-sudio
+paru -S obs studio
+paru -Ss obs studio
+paru -S obs-studio
+paru -Ss obs studio pipewire
+obs-studio
+obs-
+obs
+paru -Ss deck link
+paru -S declink
+paru -S decklink
+swww kill
+sudo tlp-stat -b
+sudo nvim /etc/tlp.conf 
+sudo rc-service tlp restart
+btop
+hypr
+cd hypr
+nv
+date
+date now
+clear
+plocate timezone
+clear
+cd hypr
+clear
+ls
+nv
+/etc/wlogout/layout
+nv /etc/wlogout/layout
+lsblk
+clear
+cd rust
+ls
+cd rust
+ls
+cd glium_tests/
+clear
+nv
+cd hypr
+hyprctl monitors
+hyprctl reload
+cargo r
+nv
+paru -R ueberzug-cpp
+paru -Rs ueberzugcpp
+paru -Rs ueberzugpp
+paru -Qs ueberzug
+paru -Qs ueber
+paru -Qs 
+cd nvim
+nv
+cd nvim
+nv
+nv
+nmv
+nv
+cd nvim
+cm "Add persistence again, with a shortcut to restore session"
+gp
+paru
+ps | where $pid==42034
+ps | where pid==42034
+ps | where pid\
+ps | where pid
+ps
+ps | where pid == 40234
+ps | where pid == 32691
+clear
+spotify_player 
+btop
+plocate BAT
+..
+rm -rf glium_tests/
+ls
+rm -rf config-swapper/ fun-network/ gl-tests/ ecs multithreadtest/ raycasting/ weak3d/
+cargo new simple_graphics
+cd simple_graphics/
+clear
+cargo add tao
+clear
+cargo r
+cargo remove tao
+cargo add winit
+cargo clean
+cargo r
+cargo remove winit
+cargo add minifb
+clear
+cargo r
+clear
+cargo r
+clear
+cargo r
+clear
+cargo r
+clear
+cargo r
+g status
+gst
+cat .gitignore 
+clear
+lsa
+ls
+lsa
+clear
+cm "Pixel drawing to the screen"
+ga .,
+ga .
+cm "Pixel drawing to the screen"
+clear
+ls
+lsa target
+gdu target
+clear
+cargo r
+jclear
+clear
+jclear
+cargo r
+nv
+cargo r
+clear
+cargo r
+clear
+RUST_BACKTRACE=1 cargo r
+cargo r
+clear
+cargo r
+clear
+cargo r
+btop
+fastfetch 
+clear
+btop
+rc-service tlp status
+btop
+tldr tlp
+btop
+echo $env.GITHUB_USERNAME
+cd conf
+gp
+clear
+glog
+gl
+g log
+clear
+gst
+gst --untracked-files=no
+g rm -rf btop/ 
+clear
+cm "Minor Hyprland changes"
+gp
+clear
+rm -rf .git
+clear
+paru -S chezmoi 
+clear
+zsh
+clear
+chezmoi add /etc/modprobe.d/
+cd /
+zsh
+paru 
+paru -S chezmoi 
+clear
+chezmoi init --apply https://github.com/ShizukanaOtaku/chezmoi_dotfiles
+chezmoi add /etc/modprobe.d/
+cd /
+clear
+chezmoi add --destination /etc/modprobe.d/nvidia.conf /etc/modprobe.d/nvidia.conf
+chezmoi add --destination /etc/modprobe.d/
+clear
+chezmoi init
+clear
+chezmoi add /etc/modprobe.d/
+chezmoi add /etc/modprobe.d/ --destination /etc/modprobe.d
+chezmoi add /etc/modprobe.d/ --destination /etc/modprobe.d/
+clear
+sudo chezmoi add /etc/modprobe.d/
+sudo chezmoi add /etc/modprobe.d/nvidia.conf 
+chezmoi apply -n
+clear
+wget https://github.com/kotontrion/PKGBUILDS/raw/refs/heads/main/kompass-git/PKGBUILDEmakepkg -si
+paru -S wget
+wget https://github.com/kotontrion/PKGBUILDS/raw/refs/heads/main/kompass-git/PKGBUILD<\n>makepkg -si
+clear
+git clone https://github.com/kotontrion/kompass<\n>cd kompass<\n>meson setup build<\n>meson install -C build
+clear
+paru -Ss vala
+paru -S vala
+clear
+cd nvim
+ls
+nv
+cd nvim
+clear
+gst --untracked-files=no
+clear
+gst
+ga .
+gst
+clear
+cm "Stolen a nice Neovim banner from typecraft :)"
+gp
+nv
+clear
+nv
+clear
+gst 
+ga .
+gst
+clear
+cm "Break up the plugins into multiple files"
+gp
+clear
+nv
+ls
+lsa
+g rm .nvim
+g rm -r .nvim
+clear
+cm "Remove the .nvim, whoopsie"
+gp
+nv .gitignore
+clear
+cm "Add .nvim to .gitignore"
+gp
+clear
+tmux
+sudo tlp-stat -b
+sudo nvim /etc/tlp.conf 
+sudo rc-service tlp restart
+sudo tlp-stat -b
+clear
+paru
+paru -Rs arm-linux-gnueabihf-gcc arm-linux-gnueabihf-linux-api-headers 
+cd ..
+rm -rf kompass/
+clear
+nv
+paru
+paru -S chezmoi
+clear
+chezmoi init https://github.com/ShizukanaOtaku/chezmoi_dotfiles
+clear
+chezmoi add ~/.config/nvim/ /etc/modprobe.d/ /etc/tlp.conf
+sudo chezmoi --source-path /etc add /etc/modprobe.d/
+chezmoi add --destination /etc/modprobe.d/ /etc/modprobe.d/
+clear
+paru -Rs chezmoi
+paru -Ss comtrya
+paru -S comtrya
+clear
+comtrya
+clear
+mkdir .config/comtrya
+cd con
+cd comtrya/
+clear
+mkdir -p files
+mkdir files
+clear
+nv nvim.yaml
+clear
+ls
+touch files/.config/nvim/test.txt
+touch -l files/.config/nvim/test.txt
+touch -p files/.config/nvim/test.txt
+mkdir -p files/.config/nvim/
+mkdir  files/.config/nvim/
+touch files/.config/nvim/test.txt
+clear
+comtrya
+comtrya apply
+nv nvim.yaml
+comtrya apply
+ls ~/.config/
+ls ~/.config/nvim/
+rm -rf ~/.config/nvim/nvim
+clear
+ls
+nv nvim.yaml
+comtrya apply
+ls ~/.config/nvim/
+rm ~/.config/nvim/test.txt
+clear
+ls
+nv nvim.yaml
+nv
+comtrya apply
+clear
+mv ~/.config/nvim/ ~/.config/nvim.bak
+nv
+clear
+comtrya apply
+nv
+ls -al ~/.config/nvim/
+rm files/.config/nvim/test.txt
+rmdir files/.config/nvim/
+cp ~/.config/nvim.bak/ files/.config/nvim
+cp -r ~/.config/nvim.bak/ files/.config/nvim
+clear
+comtrya apply
+ls -al ~/.config/nvim/
+clear
+nv
+cd nvim
+nv
+nv files/.config/nvim/lua/mappings.lua
+clera
+clear
+clear
+ls
+nv nvim.yaml
+cp nvim.yaml hyprland.yaml
+nv
+nv hyprland.yaml
+cd .config/
+gst --untracked-files=no
+ls
+cp nvim.yaml alacritty.yaml
+paru -Qs nvim
+paru -Qs neovim
+paru -Qs paru
+nv nvim.yaml
+comtrya apply
+nv nvim.yaml
+comtrya apply
+comtrya apply nvim.yaml
+comtrya
+comtrya apply -d nvim.yaml
+comtrya -d nvim.yaml apply
+clear
+nv nvim.yaml
+comtrya -d nvim.yaml apply
+nv nv
+nv nvim.yaml
+comtrya -d nvim.yaml apply
+clear
+paru -S yay
+clear
+comtrya -d nvim.yaml apply
+paru -Rs neovim
+paru -R neovim
+clear
+comtrya -d nvim.yaml apply
+nvim
+nv
+clear
+nv nvim.yaml
+paru -S neovim
+nv nvim.yaml
+paru -R neovim
+comtrya -d nvim.yaml apply
+yay -S neovim --noconfirm<\n>
+clear
+nv nvim.yaml
+comtrya -d nvim.yaml apply
+nv nvim.yaml
+comtrya -d nvim.yaml apply
+paru -R neovim
+comtrya -d nvim.yaml apply
+comtrya -v -d nvim.yaml apply
+clear
+comtrya --hlep
+comtrya --help
+clear
+comtrya context
+comtrya contexts
+clear
+nv nv
+nv nvim.yaml
+paru -S neovim
+clear
+nv nvim.yaml
+comtrya apply -d nvim.yaml
+comtrya -d nvim.yaml apply
+gcl https://github.com/comtrya/comtrya
+cd comtrya/
+nv
+clear
+cargo b
+nv nvim.yaml
+comtrya -d nvim.yaml apply
+./target/debug/comtrya
+$env.COMTRYA=./target/debug/comtrya
+$env.COMTRYA = ./target/debug/comtrya
+$env.COMTRYA = "./target/debug/comtrya"
+clear
+$env.COMTRYA
+`$env.COMTRYA`
+nv nvim.yaml
+comtrya -d nvim.yaml apply
+clear
+paru -R neovim
+com
+comtrya -d nvim.yaml apply
+pacman -Ss neovim
+clear
+comtrya -v -d nvim.yaml apply
+nv ~/.cache/paru/clone/comtrya/PKGBUILD
+paru -S neovim
+nv ~/.cache/paru/clone/comtrya/PKGBUILD
+ls
+pwd
+cp target/debug/comtrya /home/javatrix/.config/comtrya
+ls
+clear
+./comtrya
+./comtrya -v -d nvim.yaml apply
+paru -R neovim
+./comtrya -v -d nvim.yaml apply
+clear
+paru -S comtrya\
+paru -S comtrya
+cd
+clear
+;s
+sl
+ls
+rm -rf comtrya/ PKGBUILD
+clear
+git -c init.defaultBranch=master clone ssh://aur@aur.archlinux.org/pkgbase.git
+nv ~/.ssh/config
+git -c init.defaultBranch=master clone ssh://aur@aur.archlinux.org/pkgbase.git
+ssh-keygen -f ~/.ssh/aur<\n>
+clear
+git -c init.defaultBranch=master clone ssh://aur@aur.archlinux.org/pkgbase.git
+ssh-keygen 
+ssh-keygen -f ~/.ssh/aur
+clear
+git -c init.defaultBranch=master clone ssh://aur@aur.archlinux.org/pkgbase.git
+nv ~/.ssh/aur.pub
+ssh-keygen -f ~/.ssh/aur
+git -c init.defaultBranch=master clone ssh://aur@aur.archlinux.org/pkgbase.git
+clear
+nv ~/.ssh/aur.pub
+git -c init.defaultBranch=master clone ssh://aur@aur.archlinux.org/pkgbase.git
+clear
+clear
+cd ssh
+clear
+cd conf
+clear
+cd ~/.ssh/
+clear
+ls
+nv aur
+ssh-keygen -f ~/.ssh/aur
+nv aur.pub
+git -c init.defaultBranch=master clone ssh://aur@aur.archlinux.org/pkgbase.git
+clear
+ls
+mv pkgbase/ ~
+cd
+clear
+cd pkgbase/
+clear
+ls
+paru -Qs comtrya
+cd cache paru
+ls
+cd clone/
+ls
+cd comtrya/
+clear
+ls
+nv PKGBUILD
+..
+clear
+ls
+nv PKGBUILD
+ls
+./test.sh
+nv test.sh
+rm test.sh
+clear
+nv install.sh
+clear
+rm install.sh
+ls
+makepkg -si
+paru -Qs cava
+ls
+nv PKGBUILD
+makepkg -si
+ls
+nv PKGBUILD
+rm -rf pkg/ comtrya/ src
+clear
+mak
+paru -Qs latest commit
+paru -Qs 
+paru -Qs  | grep commit
+makepkg -si
+ls
+cd src/
+ls
+cd comtrya
+ls
+clear
+btop
+cargo build --release --all-features
+ls
+./target/release/comtrya
+clear
+ls
+..
+ls
+sudo rm -rf pkg comtrya src
+clear
+makepkg -si
+clear
+ls
+ls PKGBUILD
+ls pkg
+sudo ls pkg
+sudo cd pkg
+cd pkg
+clear
+ls
+sudo ls
+clear
+..
+ls
+cargo build --release --all-features
+ls
+nv PKGBUILD
+clear
+makepkg -si
+clear
+ls
+sudo rm -rf pkg comtrya src
+makepkg -si
+nv PKGBUILD
+nv cava-git/PKGBUILD
+clear
+cd comtrya/
+ls
+nv 
+ls
+cd src/comtrya/
+ls
+clear
+ls target/release/
+clear
+cargo build --release --all-features
+clear
+ls
+..
+clear
+ls
+nv PKGBUILD
+clear
+makepkg -si
+sudo nvim /etc/tlp.conf 
+sudo rc-service tlp restart
+sudo tlp-stat -b
+clear
+sudo nvim /etc/tlp.conf 
+sudo rc-service tlp restart
+sudo tlp-stat -b
+clear
+clear
+nv PKGBUILD
+clear
+cd .config/comtrya/
+clear
+paru -Rs comtrya
+clear
+gcl https://github.com/comtrya/comtrya
+ls
+rm comtrya
+https://github.com/comtrya/comtrya
+gcl https://github.com/comtrya/comtrya
+cd comtrya/
+clear
+ls
+cargo build --release --all-features
+clear
+ls
+sudo mv target/release/comtrya 
+sudo mv target/release/comtrya /usr/local/bin/
+comtrya
+clear
+..
+rm -rf comtrya/
+clear
+comtrya -v -d nvim.yaml apply
+nv PKGBUILD
+ls
+nv nvim.yaml
+comtrya -v -d nvim.yaml apply
+paru -Rs neovim
+paru -R neovim
+comtrya -v -d nvim.yaml apply
+clear
+paru -Rs yay
+paru -Rs yay-bin 
+ls
+clear
+ls
+clear
+mv files/.config/ files/config
+nv
+comtrya -v -d nvim.yaml apply
+nv nvim.yaml
+comtrya -v -d nvim.yaml apply
+rm -rf ~/.config/nvim
+comtrya -v -d nvim.yaml apply
+nv
+clear
+nv 
+nv
+nv alacritty.yaml
+nv hyprland.yaml
+clear
+ls
+clear
+ls
+rm hyprland.yaml alacritty.yaml
+clear
+ls
+ls files/
+ls files/config/
+clear
+g init
+clear
+g remote add origin https://github.com/ShizukanaOtaku/comtrya-dotfiles
+clear
+ls
+ga .
+git rm --cached files/config/nvim
+git rm -rf --cached files/config/nvim
+git submodule add https://github.com/ShizukanaOtaku/nvim files/config/nvim
+clear
+ls
+ga .
+clear
+cm "Initialize neovim configuration"
+gp
+gp --set-upstream origin main
+clear
+rm -rf ~/.config/nvim
+nv
+comtrya apply
+ls
+comtrya apply .
+comtrya apply nvim.yaml
+comtrya apply -d nvim.yaml
+clear
+ls
+comtrya
+comtrya status
+comtrya -d . apply
+clear
+ls
+paru -S yay
+paru -R paru
+clear
+comtrya -d . apply
+ldr curl
+tldr curl
+clear
+curl -s https://github.com/ShizukanaOtaku/comtrya-dotfiles/blob/main/nvim.yaml
+clear
+curl -s 'https://raw.githubusercontent.com/ShizukanaOtaku/comtrya-dotfiles/refs/heads/main/nvim.yaml?token=GHSAT0AAAAAAC345FKRHGHPWNLCVOW67XVIZ25SYZA'
+curl -s 'https://raw.githubusercontent.com/ShizukanaOtaku/comtrya-dotfiles/refs/heads/main/nvim.yaml?token=GHSAT0AAAAAAC345FKRHGHPWNLCVOW67XVIZ25SYZA' | echo
+yay -S paru
+clear
+paru -Rs yay
+paru -Rs yay-bin 
+clear
+ls
+clear
+g log
+gst
+clear
+cp ~/.config/hypr/ files/config/
+cp -r ~/.config/hypr/ files/config/
+cd files/config/
+ls
+ls hypr/
+..
+clear
+ls
+cp nvim.yaml hyprland
+mv hyprland hyprland.yaml
+paru -Qs hyprland
+paru -Qs hyprland
+paru -Rs hyprshot
+clear
+ls
+cd hypr
+ls
+paru -Qs clipse
+paru -Qs recorder
+..
+clear
+ls
+ranger
+nv hyprland.yaml
+ls
+clear
+cp nvim.yaml shells.yaml
+paru -Qs nushell
+paru -Qs zsh
+ls ~/.config/nushell/
+yazi
+clear
+ls
+cd comtrya/
+clear
+ls
+cp ../zsh/ files/config/
+cp -r ../zsh/ files/config/
+clear

@@ -1,0 +1,1 @@
+$env.MANPAGER = "nvim +Man!"
