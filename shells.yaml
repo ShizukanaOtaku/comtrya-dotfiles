@@ -1,9 +1,9 @@
 actions:
   - action: file.link
-    source: config/zsh
+    source: zsh
     target: "{{ user.config_dir }}/zsh"
   - action: file.link
-    source: config/nushell
+    source: nushell
     target: "{{ user.config_dir }}/nushell"
   - action: package.install
     list:

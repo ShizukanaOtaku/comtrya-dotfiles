@@ -1,6 +1,6 @@
 actions:
   - action: file.link
-    source: etc/modprobe.d/nvidia.conf
+    source: nvidia.conf
     target: /etc/modprobe.d/nvidia.conf
   - action: package.install
     name: nvidia-dkms

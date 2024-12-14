@@ -4,3 +4,6 @@
 [submodule "files/config/tmux/plugins/tpm"]
 	path = files/config/tmux/plugins/tpm
 	url = https://github.com/tmux-plugins/tpm
+[submodule "files/tmux/plugins/tpm"]
+	path = files/tmux/plugins/tpm
+	url = https://github.com/tmux-plugins/tpm

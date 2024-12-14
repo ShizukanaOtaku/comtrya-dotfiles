@@ -1,6 +1,6 @@
 actions:
   - action: file.link
-    source: config/kitty
+    source: kitty
     target: "{{ user.config_dir }}/kitty"
   - action: package.install
     name: kitty
