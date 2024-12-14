@@ -1,0 +1,13 @@
+actions:
+  - action: file.link
+    source: sddm/sddm.conf
+    target: /etc/sddm.conf
+  - action: file.link
+    source: sddm/themes
+    target: /usr/share/sddm/themes
+  - action: file.link
+    source: usr/share/sddm/faces
+    target: sddm/faces
+  - action: package.install
+    package: sddm
+    provider: paru
