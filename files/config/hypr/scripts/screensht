@@ -1,0 +1,23 @@
+#!/bin/bash
+
+set -o pipefail
+
+if [ -z "$1" ] || ([ "$1" != 'full' ] && [ "$1" != 'area' ]);
+then
+	echo "
+	Requires an argument:
+	area 	- Area screenshot
+	full 	- Fullscreen screenshot
+	Example:
+	screensht area
+	screensht full
+	"
+elif [ "$1" = 'full' ];
+then
+	msg="Full screenshot saved and copied to clipboard!"
+  grimblast $2 copy full
+elif [ "$1" = 'area' ];
+then
+	msg='Area screenshot saved and copied to clipboard!'
+  grimblast $2 copy area
+fi

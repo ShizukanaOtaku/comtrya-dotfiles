@@ -1,0 +1,21 @@
+actions:
+  - action: file.link
+    source: config/hypr
+    target: "{{ user.config_dir }}/hypr"
+  - action: file.link
+    source: config/waybar
+    target: "{{ user.config_dir }}/waybar"
+  - action: file.link
+    source: config/rofi
+    target: "{{ user.config_dir }}/rofi"
+  - action: package.install
+    list:
+      - hyprland
+      - hypridle
+      - hyprlock
+      - flameshot-git
+      - clipse
+      - wf-recorder
+      - waybar
+      - rofi-wayland
+    provider: paru
