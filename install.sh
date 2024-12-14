@@ -6,7 +6,6 @@ cd paru
 makepkg -si
 cd ..
 rm -rf paru
-paru -S rustup --needed --noconfirm
 git clone https://github.com/comtrya/comtrya
 cd comtrya
 cargo build --release --all-features
