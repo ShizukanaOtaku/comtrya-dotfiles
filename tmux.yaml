@@ -1,0 +1,7 @@
+actions:
+  - action: file.link
+    source: config/tmux
+    target: "{{ user.config_dir }}/tmux"
+  - action: package.install
+    name: tmux
+    provider: paru
