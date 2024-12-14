@@ -13,4 +13,6 @@ cargo build --release --all-features
 sudo mv target/release/comtrya /usr/bin/comtrya
 cd ..
 rm -rf comtrya
+git clone https://github.com/ShizukanaOtaku/comtrya-dotfiles
+cd comtrya-dotfiles
 comtrya -v -d . apply
