@@ -9,5 +9,5 @@ actions:
     source: usr/share/sddm/faces
     target: sddm/faces
   - action: package.install
-    package: sddm
+    name: sddm
     provider: paru
