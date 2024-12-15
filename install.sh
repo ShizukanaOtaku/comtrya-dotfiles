@@ -7,9 +7,7 @@ rustup default stable
 (
   git clone https://aur.archlinux.org/paru.git
   cd paru
-  makepkg -si
-  cd ..
-  rm -rf paru
+  makepkg -si --noconfirm --clean
 ) &
 
 # Comtrya (git version)
@@ -18,8 +16,6 @@ rustup default stable
   cd comtrya
   cargo build --release --all-features
   sudo mv target/release/comtrya /usr/bin/comtrya
-  cd ..
-  rm -rf comtrya
 ) &
 
 wait
