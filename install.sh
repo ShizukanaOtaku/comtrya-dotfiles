@@ -23,6 +23,6 @@ rustup default stable
 wait
 
 # Clone and install the dotfiles
-git clone https://github.com/ShizukanaOtaku/comtrya-dotfiles
+git clone --recursive https://github.com/ShizukanaOtaku/comtrya-dotfiles
 cd comtrya-dotfiles
 sudo comtrya -v -d . apply
