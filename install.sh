@@ -16,6 +16,8 @@ rustup default stable
   cd comtrya
   cargo build --release --all-features
   sudo mv target/release/comtrya /usr/bin/comtrya
+  cd ..
+  rm -rf comtrya
 ) &
 
 wait
