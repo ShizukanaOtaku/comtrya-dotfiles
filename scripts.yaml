@@ -1,0 +1,8 @@
+actions:
+  - action: file.link
+    source: scripts
+    target: "{{ user.home_dir }}/.scripts"
+  - action: package.install
+    list:
+      - playerctl
+    provider: paru

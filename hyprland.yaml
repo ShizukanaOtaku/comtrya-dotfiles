@@ -18,4 +18,6 @@ actions:
       - wf-recorder
       - waybar
       - rofi-wayland
+      - swww
+      - mako
     provider: paru
