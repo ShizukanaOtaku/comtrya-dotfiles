@@ -5,8 +5,8 @@ if ! command -v cargo 2>&1 >/dev/null
 then
   echo "Cargo could not be found!"
   curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
-  rustup default stable
 fi
+rustup default stable
 
 # Paru installation
 git clone https://aur.archlinux.org/paru.git
