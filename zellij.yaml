@@ -1,0 +1,7 @@
+actions:
+  - action: file.link
+    source: zellij
+    target: "{{ user.config_dir }}/zellij"
+  - action: package.install
+    name: zellij
+    provider: paru
